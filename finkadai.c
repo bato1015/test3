@@ -1,3 +1,4 @@
+/*teigi*/
 #include <stdio.h>
 #include <drawlib.h>
 #include <stdlib.h>
